@@ -37,6 +37,8 @@ Lo más importante que aprendí de Git es...
 ---
 ## Repositorio de ejercicios
 
-**Nombre del repositorio en GitHub:** 00-git-intro-DonovanHernandez5
+**Nombre del repositorio en GitHub:** MI-Proyecto-Practica
 
-**Enlace público al repositorio:**  https://github.com/Alumnos-de-Noe-Nieto/00-git-intro-DonovanHernandez5
+**Enlace público al repositorio:** 
+
+https://github.com/DonovanHernandez5/MI-Proyecto-Practica
